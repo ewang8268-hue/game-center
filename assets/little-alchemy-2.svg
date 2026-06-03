@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+  <title id="title">Little Alchemy 2 game thumbnail</title>
+  <desc id="desc">Colorful geometric icons suggesting element mixing.</desc>
+  <rect width="960" height="600" fill="#fff7ea"/>
+  <path d="M0 470h960v130H0z" fill="#ffd447"/>
+  <circle cx="260" cy="245" r="116" fill="#8b3dff"/>
+  <circle cx="512" cy="220" r="92" fill="#00b8ff"/>
+  <circle cx="684" cy="332" r="128" fill="#a7f400"/>
+  <path d="M231 210h58v92h-58zM214 243h92v27h-92z" fill="#11142a"/>
+  <path d="M471 216c44-72 82-72 82 0 0 48-82 48-82 0z" fill="#11142a"/>
+  <path d="M634 348l50-90 52 90-52 36z" fill="#11142a"/>
+  <path d="M158 448h644" stroke="#11142a" stroke-width="12" stroke-linecap="round"/>
+  <path d="M166 496h420" stroke="#ff4d7d" stroke-width="12" stroke-linecap="round"/>
+</svg>

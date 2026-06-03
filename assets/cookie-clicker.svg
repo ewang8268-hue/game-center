@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+  <title id="title">Cookie Clicker game thumbnail</title>
+  <desc id="desc">A giant cookie surrounded by bright upgrade shapes.</desc>
+  <rect width="960" height="600" fill="#fff0f7"/>
+  <circle cx="480" cy="300" r="170" fill="#d98734" stroke="#11142a" stroke-width="14"/>
+  <circle cx="410" cy="238" r="20" fill="#6b3b19"/>
+  <circle cx="520" cy="230" r="26" fill="#6b3b19"/>
+  <circle cx="575" cy="332" r="19" fill="#6b3b19"/>
+  <circle cx="440" cy="374" r="24" fill="#6b3b19"/>
+  <circle cx="318" cy="300" r="18" fill="#6b3b19"/>
+  <path d="M180 150h120v70H180z" fill="#00b8ff" stroke="#11142a" stroke-width="10"/>
+  <path d="M700 120l112 64-112 64z" fill="#a7f400" stroke="#11142a" stroke-width="10"/>
+  <path d="M160 430l76-96 76 96z" fill="#ff4d7d" stroke="#11142a" stroke-width="10"/>
+  <path d="M700 420h128v76H700z" fill="#ffd447" stroke="#11142a" stroke-width="10"/>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+  <title id="title">2048 game thumbnail</title>
+  <desc id="desc">Bright number tiles on a puzzle board.</desc>
+  <rect width="960" height="600" fill="#fff8dc"/>
+  <rect x="132" y="72" width="696" height="456" rx="18" fill="#11142a"/>
+  <g font-family="Arial, sans-serif" font-weight="900" font-size="72" text-anchor="middle" fill="#11142a">
+    <rect x="168" y="108" width="144" height="144" rx="12" fill="#ffd447"/>
+    <text x="240" y="198">2</text>
+    <rect x="336" y="108" width="144" height="144" rx="12" fill="#25e5b5"/>
+    <text x="408" y="198">4</text>
+    <rect x="504" y="108" width="144" height="144" rx="12" fill="#00b8ff"/>
+    <text x="576" y="198">8</text>
+    <rect x="672" y="108" width="144" height="144" rx="12" fill="#ff4d7d"/>
+    <text x="744" y="198">16</text>
+    <rect x="168" y="276" width="144" height="144" rx="12" fill="#8b3dff"/>
+    <text x="240" y="366" fill="#fff">32</text>
+    <rect x="336" y="276" width="144" height="144" rx="12" fill="#a7f400"/>
+    <text x="408" y="366">64</text>
+    <rect x="504" y="276" width="312" height="144" rx="12" fill="#ff8a00"/>
+    <text x="660" y="366">2048</text>
+  </g>
+</svg>

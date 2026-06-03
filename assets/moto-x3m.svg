@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+  <title id="title">Moto X3M game thumbnail</title>
+  <desc id="desc">A stunt bike launching over a bright ramp.</desc>
+  <rect width="960" height="600" fill="#e9fff8"/>
+  <path d="M0 456h260l160-150 186 150h354v144H0z" fill="#ffd447" stroke="#11142a" stroke-width="12"/>
+  <path d="M274 320l142 80 104-96" fill="none" stroke="#11142a" stroke-width="28" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="260" cy="416" r="58" fill="#11142a"/>
+  <circle cx="260" cy="416" r="24" fill="#ffffff"/>
+  <circle cx="536" cy="416" r="58" fill="#11142a"/>
+  <circle cx="536" cy="416" r="24" fill="#ffffff"/>
+  <path d="M330 328h174l72 76H390z" fill="#ff4d7d" stroke="#11142a" stroke-width="10"/>
+  <circle cx="510" cy="244" r="30" fill="#11142a"/>
+  <path d="M500 272l-62 56M498 278l74 44" stroke="#11142a" stroke-width="18" stroke-linecap="round"/>
+  <path d="M680 162c72 0 110 28 134 78" fill="none" stroke="#8b3dff" stroke-width="18" stroke-linecap="round"/>
+</svg>

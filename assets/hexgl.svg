@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+  <title id="title">HexGL game thumbnail</title>
+  <desc id="desc">A futuristic hover racer on a hex track.</desc>
+  <rect width="960" height="600" fill="#e8fbff"/>
+  <path d="M120 520l184-336h352l184 336z" fill="#11142a"/>
+  <path d="M236 470l126-230h268l126 230z" fill="#00b8ff"/>
+  <path d="M338 430l72-138h172l72 138z" fill="#fff7ea"/>
+  <path d="M352 318h256l-42 80H394z" fill="#ff4d7d" stroke="#11142a" stroke-width="10"/>
+  <path d="M198 160h116M650 160h112M456 92h108" stroke="#8b3dff" stroke-width="22" stroke-linecap="round"/>
+  <path d="M410 462h170" stroke="#a7f400" stroke-width="14" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+  <title id="title">Slope game thumbnail</title>
+  <desc id="desc">A bright ball rolling down angular ramps.</desc>
+  <rect width="960" height="600" fill="#f4ffe5"/>
+  <path d="M0 370l240-120 180 90 220-160 320 150v270H0z" fill="#11142a"/>
+  <path d="M118 428l262-120 202 86 262-108" fill="none" stroke="#a7f400" stroke-width="76" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M118 428l262-120 202 86 262-108" fill="none" stroke="#ffffff" stroke-width="36" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="370" cy="306" r="68" fill="#ff4d7d" stroke="#11142a" stroke-width="12"/>
+  <path d="M680 130h120v48H680zM190 154h172v44H190z" fill="#00b8ff"/>
+</svg>
