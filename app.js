@@ -52,7 +52,7 @@ const games = [
     category: "skill",
     pace: "Reflex",
     image: "assets/slope.svg",
-    url: "https://slope-game.github.io/",
+    url: "https://slopegame.io/slope-unblocked",
     description: "Guide a rolling ball through fast drops, ramps, and quick turns."
   },
   {
@@ -60,7 +60,7 @@ const games = [
     category: "platform",
     pace: "Parkour",
     image: "assets/vex-5.svg",
-    url: "https://www.crazygames.com/game/vex-5",
+    url: "https://www.gamepix.com/play/vex-5",
     description: "Run, jump, slide, and dodge traps through clean platforming stages."
   },
   {
