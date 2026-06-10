@@ -14,7 +14,6 @@
       </a>
       <nav class="top-nav" aria-label="Primary navigation">
         <a href="#games">Games</a>
-        <a href="#player">Player</a>
         <a href="#queue">Queue</a>
       </nav>
     </header>
@@ -29,18 +28,17 @@
           </p>
           <div class="hero-actions">
             <a class="button primary" href="#games">Browse games</a>
-        <a class="button secondary" href="#player">Launch bay</a>
           </div>
         </div>
 
-        <div class="hero-panel" aria-label="Featured game preview">
+        <div class="hero-panel" aria-label="Featured game">
           <div class="panel-topline">
             <span class="live-dot"></span>
             <span>Featured</span>
           </div>
           <img
             src="assets/polytrack.svg"
-            alt="Abstract racing track thumbnail"
+            alt="Polytrack racing thumbnail"
             class="feature-art"
           />
           <div>
@@ -67,28 +65,6 @@
       </section>
 
       <section id="games" class="game-grid" aria-label="Available games"></section>
-
-      <section id="player" class="player-section" aria-labelledby="player-title">
-        <div class="section-heading">
-          <p class="eyebrow">Browser player</p>
-          <h2 id="player-title">Launch bay</h2>
-        </div>
-        <div class="player-shell">
-          <div class="player-header">
-            <div>
-              <p id="player-label">Ready</p>
-              <h3 id="selected-game">Choose a game</h3>
-            </div>
-            <a id="external-link" class="button secondary hidden" href="#">Open game</a>
-          </div>
-          <div class="frame-wrap" id="frame-wrap">
-            <div class="empty-state">
-              <span class="empty-icon">+</span>
-              <p>Pick a game from the grid or quick queue.</p>
-            </div>
-          </div>
-        </div>
-      </section>
 
       <section id="queue" class="queue-section" aria-labelledby="queue-title">
         <div class="section-heading">

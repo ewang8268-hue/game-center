@@ -1,12 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
-  <title id="title">Polytrack game thumbnail</title>
-  <desc id="desc">Abstract low-poly racing track with cyan road lines.</desc>
-  <rect width="960" height="600" fill="#e8fbff"/>
-  <path d="M0 600L220 315 420 600z" fill="#ffd447"/>
-  <path d="M348 600L624 242 960 600z" fill="#ffb0c8"/>
-  <path d="M0 178l256 96 170-88 226 122 308-134v426H0z" fill="#ffffff"/>
-  <path d="M142 535C330 314 460 222 599 260c114 31 165 139 252 246" fill="none" stroke="#00b8ff" stroke-width="80" stroke-linecap="round"/>
-  <path d="M142 535C330 314 460 222 599 260c114 31 165 139 252 246" fill="none" stroke="#11142a" stroke-width="48" stroke-linecap="round"/>
-  <path d="M236 442l84-73M440 292l95-26M658 292l76 64" stroke="#a7f400" stroke-width="12" stroke-linecap="round"/>
-  <path d="M120 138h184v40H120zM120 202h112v22H120z" fill="#8b3dff"/>
+  <title id="title">Polytrack themed thumbnail</title>
+  <desc id="desc">A low-poly racing track with checkpoints and a small time-trial car.</desc>
+  <rect width="960" height="600" fill="#dff6ff"/>
+  <path d="M0 600 178 308 318 600z" fill="#75d77b"/>
+  <path d="M282 600 548 216 960 600z" fill="#b7ff6a"/>
+  <path d="M0 210 246 292 430 182 660 304 960 166v434H0z" fill="#f8fbff"/>
+  <path d="M118 514C282 332 418 238 562 260c124 19 204 104 284 232" fill="none" stroke="#49bbff" stroke-width="86" stroke-linecap="round"/>
+  <path d="M118 514C282 332 418 238 562 260c124 19 204 104 284 232" fill="none" stroke="#1d2345" stroke-width="52" stroke-linecap="round"/>
+  <path d="M214 414h86M396 294h86M626 312h86M750 426h86" stroke="#ffffff" stroke-width="14" stroke-linecap="round"/>
+  <path d="M444 258h118l42 54H402z" fill="#ff4d7d" stroke="#1d2345" stroke-width="10"/>
+  <circle cx="440" cy="318" r="20" fill="#1d2345"/>
+  <circle cx="584" cy="318" r="20" fill="#1d2345"/>
+  <path d="M132 120h192v46H132zM132 190h128v24H132z" fill="#8b3dff"/>
 </svg>

@@ -1,14 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
-  <title id="title">Little Alchemy 2 game thumbnail</title>
-  <desc id="desc">Colorful geometric icons suggesting element mixing.</desc>
-  <rect width="960" height="600" fill="#fff7ea"/>
-  <path d="M0 470h960v130H0z" fill="#ffd447"/>
-  <circle cx="260" cy="245" r="116" fill="#8b3dff"/>
-  <circle cx="512" cy="220" r="92" fill="#00b8ff"/>
-  <circle cx="684" cy="332" r="128" fill="#a7f400"/>
-  <path d="M231 210h58v92h-58zM214 243h92v27h-92z" fill="#11142a"/>
-  <path d="M471 216c44-72 82-72 82 0 0 48-82 48-82 0z" fill="#11142a"/>
-  <path d="M634 348l50-90 52 90-52 36z" fill="#11142a"/>
-  <path d="M158 448h644" stroke="#11142a" stroke-width="12" stroke-linecap="round"/>
-  <path d="M166 496h420" stroke="#ff4d7d" stroke-width="12" stroke-linecap="round"/>
+  <title id="title">Little Alchemy 2 themed thumbnail</title>
+  <desc id="desc">Alchemy icons for fire, water, air, earth, and a discovery book.</desc>
+  <rect width="960" height="600" fill="#f7f1df"/>
+  <path d="M0 0h960v140H0z" fill="#9ddcff"/>
+  <path d="M0 430c130-66 262-78 396-36 132 42 268 46 408-24 58-29 110-44 156-42v272H0z" fill="#8fd46b"/>
+  <rect x="118" y="124" width="312" height="358" rx="24" fill="#fffdf5" stroke="#332514" stroke-width="14"/>
+  <path d="M150 170h248M150 226h168M150 282h222" stroke="#332514" stroke-width="16" stroke-linecap="round"/>
+  <circle cx="624" cy="215" r="74" fill="#4db7ff" stroke="#332514" stroke-width="12"/>
+  <path d="M584 216c24-58 64-58 88 0 12 38-16 70-44 70s-56-32-44-70z" fill="#dff6ff"/>
+  <path d="M698 408c0-74 78-95 78-164 0 68 78 90 78 164 0 50-35 86-78 86s-78-36-78-86z" fill="#ff714c" stroke="#332514" stroke-width="12"/>
+  <path d="M738 417c0-30 38-47 38-78 0 31 38 48 38 78 0 26-17 43-38 43s-38-17-38-43z" fill="#ffd447"/>
+  <circle cx="575" cy="424" r="64" fill="#a87942" stroke="#332514" stroke-width="12"/>
+  <path d="M526 424h98M575 375v98" stroke="#6b4a25" stroke-width="12" stroke-linecap="round"/>
+  <path d="M650 118c42-38 98-38 140 0M676 154c22-18 60-18 82 0" fill="none" stroke="#ffffff" stroke-width="16" stroke-linecap="round"/>
 </svg>

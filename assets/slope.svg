@@ -1,10 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
-  <title id="title">Slope game thumbnail</title>
-  <desc id="desc">A bright ball rolling down angular ramps.</desc>
-  <rect width="960" height="600" fill="#f4ffe5"/>
-  <path d="M0 370l240-120 180 90 220-160 320 150v270H0z" fill="#11142a"/>
-  <path d="M118 428l262-120 202 86 262-108" fill="none" stroke="#a7f400" stroke-width="76" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M118 428l262-120 202 86 262-108" fill="none" stroke="#ffffff" stroke-width="36" stroke-linecap="round" stroke-linejoin="round"/>
-  <circle cx="370" cy="306" r="68" fill="#ff4d7d" stroke="#11142a" stroke-width="12"/>
-  <path d="M680 130h120v48H680zM190 154h172v44H190z" fill="#00b8ff"/>
+  <title id="title">Slope themed thumbnail</title>
+  <desc id="desc">A neon ball racing down a green 3D slope course.</desc>
+  <rect width="960" height="600" fill="#101726"/>
+  <path d="M480 0v600M0 300h960M140 0 0 152M320 0 0 344M640 0 960 344M820 0 960 152" stroke="#1f3844" stroke-width="4"/>
+  <path d="M116 520l238-292h252l238 292z" fill="#142033" stroke="#39ff88" stroke-width="10"/>
+  <path d="M242 462l156-186h164l156 186z" fill="#39ff88"/>
+  <path d="M332 430l98-114h100l98 114z" fill="#11142a"/>
+  <circle cx="480" cy="260" r="70" fill="#9dff2f" stroke="#e8ffe8" stroke-width="14"/>
+  <path d="M154 160h178M628 160h178M206 222h94M662 222h94" stroke="#39ff88" stroke-width="16" stroke-linecap="round"/>
 </svg>

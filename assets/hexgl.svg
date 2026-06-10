@@ -1,11 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
-  <title id="title">HexGL game thumbnail</title>
-  <desc id="desc">A futuristic hover racer on a hex track.</desc>
-  <rect width="960" height="600" fill="#e8fbff"/>
-  <path d="M120 520l184-336h352l184 336z" fill="#11142a"/>
-  <path d="M236 470l126-230h268l126 230z" fill="#00b8ff"/>
-  <path d="M338 430l72-138h172l72 138z" fill="#fff7ea"/>
-  <path d="M352 318h256l-42 80H394z" fill="#ff4d7d" stroke="#11142a" stroke-width="10"/>
-  <path d="M198 160h116M650 160h112M456 92h108" stroke="#8b3dff" stroke-width="22" stroke-linecap="round"/>
-  <path d="M410 462h170" stroke="#a7f400" stroke-width="14" stroke-linecap="round"/>
+  <title id="title">HexGL themed thumbnail</title>
+  <desc id="desc">A futuristic anti-gravity racer over blue hexagonal lanes.</desc>
+  <rect width="960" height="600" fill="#081c36"/>
+  <g fill="none" stroke="#16496e" stroke-width="4">
+    <path d="M94 112h104l52 90-52 90H94l-52-90zM300 112h104l52 90-52 90H300l-52-90zM506 112h104l52 90-52 90H506l-52-90zM712 112h104l52 90-52 90H712l-52-90z"/>
+    <path d="M198 292h104l52 90-52 90H198l-52-90zM404 292h104l52 90-52 90H404l-52-90zM610 292h104l52 90-52 90H610l-52-90z"/>
+  </g>
+  <path d="M96 560l230-390h308l230 390z" fill="#0d2a4a"/>
+  <path d="M228 520l158-276h194l158 276z" fill="#00b8ff"/>
+  <path d="M354 466l74-146h110l74 146z" fill="#081c36"/>
+  <path d="M350 332h250l-50 92H400z" fill="#ff4d7d" stroke="#e8fbff" stroke-width="10"/>
+  <path d="M404 300h142l44 42H362z" fill="#ffd447"/>
+  <path d="M188 132h170M634 132h144M424 78h116" stroke="#25e5b5" stroke-width="18" stroke-linecap="round"/>
 </svg>

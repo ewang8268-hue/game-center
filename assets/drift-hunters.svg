@@ -1,15 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
-  <title id="title">Drift Hunters game thumbnail</title>
-  <desc id="desc">Stylized sports car drifting on a charcoal track.</desc>
-  <rect width="960" height="600" fill="#fff0f7"/>
-  <path d="M0 416c184-80 372-95 562-44 126 34 252 82 398 44v184H0z" fill="#ffd447"/>
-  <path d="M168 392c176-104 384-105 624-12" fill="none" stroke="#ffffff" stroke-width="82" stroke-linecap="round"/>
-  <path d="M302 332h260l118 70H222z" fill="#ff5f6d"/>
-  <path d="M384 276h150l76 56H326z" fill="#12d9ff"/>
-  <path d="M352 332l42-44h124l48 44z" fill="#11142a"/>
-  <circle cx="334" cy="413" r="52" fill="#11142a"/>
-  <circle cx="334" cy="413" r="24" fill="#ffffff"/>
-  <circle cx="612" cy="413" r="52" fill="#11142a"/>
-  <circle cx="612" cy="413" r="24" fill="#ffffff"/>
-  <path d="M706 306c50-26 94-34 132-24M724 354c70-8 119 2 148 30" stroke="#b7ff3c" stroke-width="14" stroke-linecap="round"/>
+  <title id="title">Drift Hunters themed thumbnail</title>
+  <desc id="desc">A tuned drift car sliding through smoke on a garage track.</desc>
+  <rect width="960" height="600" fill="#eef2ff"/>
+  <path d="M0 430c160-88 340-104 522-48 154 48 294 86 438 32v186H0z" fill="#2f344c"/>
+  <path d="M96 396c178-112 386-126 668-24" fill="none" stroke="#11142a" stroke-width="96" stroke-linecap="round"/>
+  <path d="M188 386c128-54 294-66 486-34" fill="none" stroke="#ffffff" stroke-width="34" stroke-linecap="round"/>
+  <path d="M254 318h326l130 78H170z" fill="#ff4d7d" stroke="#11142a" stroke-width="12"/>
+  <path d="M364 254h176l94 64H300z" fill="#00b8ff" stroke="#11142a" stroke-width="12"/>
+  <path d="M380 318l52-50h86l62 50z" fill="#11142a"/>
+  <circle cx="292" cy="408" r="58" fill="#11142a"/>
+  <circle cx="292" cy="408" r="24" fill="#ffffff"/>
+  <circle cx="612" cy="408" r="58" fill="#11142a"/>
+  <circle cx="612" cy="408" r="24" fill="#ffffff"/>
+  <path d="M694 284c70-44 128-50 174-18M716 336c76-18 138-8 188 30M120 206h172M120 250h108" fill="none" stroke="#a7f400" stroke-width="18" stroke-linecap="round"/>
 </svg>

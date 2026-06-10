@@ -77,10 +77,6 @@ const gameGrid = document.querySelector("#games");
 const queueList = document.querySelector("#queue-list");
 const searchInput = document.querySelector("#game-search");
 const filterButtons = document.querySelectorAll("[data-filter]");
-const frameWrap = document.querySelector("#frame-wrap");
-const selectedGame = document.querySelector("#selected-game");
-const playerLabel = document.querySelector("#player-label");
-const externalLink = document.querySelector("#external-link");
 
 let activeFilter = "all";
 
@@ -103,7 +99,6 @@ function createGameCard(game) {
       </div>
       <div class="card-actions">
         <a class="button primary" href="${game.url}">Play</a>
-        <button class="button secondary" type="button" data-preview="${game.title}">Preview</button>
       </div>
     </div>
   `;
@@ -144,32 +139,6 @@ function applyFilters() {
   });
 }
 
-function selectGame(title) {
-  const game = games.find((item) => item.title === title);
-  if (!game) return;
-
-  selectedGame.textContent = game.title;
-  playerLabel.textContent = `${game.pace} ready`;
-  externalLink.href = game.url;
-  externalLink.classList.remove("hidden");
-  frameWrap.innerHTML = `
-    <div class="launch-card">
-      <img src="${game.image}" alt="${game.title} thumbnail">
-      <div>
-        <p class="eyebrow">${game.category}</p>
-        <h4>${game.title}</h4>
-        <p>${game.description}</p>
-        <div class="launch-actions">
-          <a class="button primary" href="${game.url}">Play in this tab</a>
-          <a class="button secondary" href="#games">Back to games</a>
-        </div>
-      </div>
-    </div>
-  `;
-
-  document.querySelector("#player").scrollIntoView({ behavior: "smooth", block: "start" });
-}
-
 renderGames();
 renderQueue();
 
@@ -182,12 +151,4 @@ filterButtons.forEach((button) => {
     activeFilter = button.dataset.filter;
     applyFilters();
   });
-});
-
-document.addEventListener("click", (event) => {
-  const previewTarget = event.target.closest("[data-preview]");
-
-  if (previewTarget) {
-    selectGame(previewTarget.dataset.preview);
-  }
 });

@@ -1,11 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
-  <title id="title">Vex 5 game thumbnail</title>
-  <desc id="desc">A stick runner jumps across colorful platforms and spikes.</desc>
-  <rect width="960" height="600" fill="#f0e9ff"/>
-  <path d="M116 452h220v64H116zM432 360h196v64H432zM706 248h166v64H706z" fill="#00b8ff" stroke="#11142a" stroke-width="10"/>
-  <path d="M350 516l36-74 36 74M636 424l36-74 36 74" fill="#ff4d7d" stroke="#11142a" stroke-width="8"/>
-  <circle cx="482" cy="196" r="34" fill="#11142a"/>
-  <path d="M482 230v94M482 260l-64 38M482 260l74 28M482 324l-58 62M482 324l70 58" stroke="#11142a" stroke-width="18" stroke-linecap="round"/>
-  <path d="M112 136h190" stroke="#ffd447" stroke-width="28" stroke-linecap="round"/>
-  <path d="M672 116h120" stroke="#a7f400" stroke-width="28" stroke-linecap="round"/>
+  <title id="title">Vex 5 themed thumbnail</title>
+  <desc id="desc">A black stick figure jumping through Vex-style platforms and spike traps.</desc>
+  <rect width="960" height="600" fill="#eef3ff"/>
+  <path d="M88 480h260v58H88zM440 372h196v58H440zM708 252h170v58H708z" fill="#4a90ff" stroke="#11142a" stroke-width="10"/>
+  <path d="M352 538l40-82 40 82M636 430l40-82 40 82M730 310l34-64 34 64" fill="#ff4d7d" stroke="#11142a" stroke-width="8"/>
+  <circle cx="446" cy="190" r="34" fill="#11142a"/>
+  <path d="M446 224v90M446 250l-80 28M446 252l80-48M446 314l-72 70M446 314l76 48" stroke="#11142a" stroke-width="18" stroke-linecap="round"/>
+  <path d="M172 132h180M608 112h164" stroke="#ffd447" stroke-width="28" stroke-linecap="round"/>
+  <path d="M162 190h98M656 170h92" stroke="#8b3dff" stroke-width="18" stroke-linecap="round"/>
+  <path d="M300 388c54-80 112-128 174-144" fill="none" stroke="#25e5b5" stroke-width="12" stroke-linecap="round" stroke-dasharray="20 18"/>
 </svg>

@@ -1,15 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
-  <title id="title">Moto X3M game thumbnail</title>
-  <desc id="desc">A stunt bike launching over a bright ramp.</desc>
-  <rect width="960" height="600" fill="#e9fff8"/>
-  <path d="M0 456h260l160-150 186 150h354v144H0z" fill="#ffd447" stroke="#11142a" stroke-width="12"/>
-  <path d="M274 320l142 80 104-96" fill="none" stroke="#11142a" stroke-width="28" stroke-linecap="round" stroke-linejoin="round"/>
-  <circle cx="260" cy="416" r="58" fill="#11142a"/>
-  <circle cx="260" cy="416" r="24" fill="#ffffff"/>
-  <circle cx="536" cy="416" r="58" fill="#11142a"/>
-  <circle cx="536" cy="416" r="24" fill="#ffffff"/>
-  <path d="M330 328h174l72 76H390z" fill="#ff4d7d" stroke="#11142a" stroke-width="10"/>
-  <circle cx="510" cy="244" r="30" fill="#11142a"/>
-  <path d="M500 272l-62 56M498 278l74 44" stroke="#11142a" stroke-width="18" stroke-linecap="round"/>
-  <path d="M680 162c72 0 110 28 134 78" fill="none" stroke="#8b3dff" stroke-width="18" stroke-linecap="round"/>
+  <title id="title">Moto X3M themed thumbnail</title>
+  <desc id="desc">A motocross rider flipping over ramps and hazards.</desc>
+  <rect width="960" height="600" fill="#dff9ff"/>
+  <path d="M0 470h240l168-176 190 176h362v130H0z" fill="#ffcf3f" stroke="#11142a" stroke-width="12"/>
+  <path d="M120 506h102M690 506h152" stroke="#11142a" stroke-width="16" stroke-linecap="round"/>
+  <path d="M268 314l154 92 128-112" fill="none" stroke="#11142a" stroke-width="28" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="260" cy="410" r="62" fill="#11142a"/>
+  <circle cx="260" cy="410" r="26" fill="#ffffff"/>
+  <circle cx="566" cy="410" r="62" fill="#11142a"/>
+  <circle cx="566" cy="410" r="26" fill="#ffffff"/>
+  <path d="M342 316h204l82 86H418z" fill="#ff4d7d" stroke="#11142a" stroke-width="10"/>
+  <circle cx="548" cy="230" r="32" fill="#11142a"/>
+  <path d="M538 260l-72 60M538 262l92 52M466 320l-76 36" stroke="#11142a" stroke-width="18" stroke-linecap="round"/>
+  <path d="M716 120c80 0 128 34 154 96" fill="none" stroke="#8b3dff" stroke-width="18" stroke-linecap="round"/>
+  <path d="M760 188l44 28-56 26z" fill="#ff4d7d" stroke="#11142a" stroke-width="8"/>
 </svg>
